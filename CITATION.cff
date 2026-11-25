@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this module, please cite it as below."
+title: "sta425_subsample: seeded random subsampling of replicates"
+abstract: >-
+  Omnibenchmark subsampling module. Draws n replicates per condition without
+  replacement from a count table and sample sheet, reproducibly from a seed.
+authors:
+  - given-names: "FIRSTNAME"
+    family-names: "LASTNAME"
+license: MIT
+version: 0.1.0
